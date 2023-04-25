@@ -1,0 +1,14 @@
+AIM: Simulate persistant Cross Site Scripting attack.
+
+Step 1: install the dvwa package from the internet and copy paste in the xampp server htdocs folder
+
+Step 2: Start the XAMPP server
+
+Step 3: Goto the localhost/dvwa
+
+Step 4: Now, goto the Stored Cross site scripting(XSS) link by clicking on the navigation in the left side of the website.
+
+Step 5: Then, write the name of the test in the Name's textfield and message in the message box, then 
+click on sign guestbook button.
+
+Step 6: The output will appeared below.

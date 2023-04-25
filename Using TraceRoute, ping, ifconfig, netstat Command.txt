@@ -1,0 +1,23 @@
+3.1) Using TraceRoute, ping, ifconfig, netstat Command
+Step 1: Type tracert command and type www.prestashop.com press “Enter”.
+command- tracert www.google.com
+
+Step 2: Ping all the IP addresses
+Ifconfig
+command - 1) ping 192.168.1.1
+	  2) ping 91.240.109.42
+
+Netstat
+
+
+3.2) Perform ARP Poisoning in Windows
+Step 2 : Select sniffer on the top.
+Step 3 : Next to folder icon click on icon name start/stop sniffer. Select device and click on ok.
+Step 4 : Click on “+” icon on the top. Click on ok.
+Step 5 : Shows the Connected host.
+Step 6 : Select Arp at bottom.
+Step 7 : Click on “+” icon at the top.
+Step 8 : Click on start/stop ARP icon on top.
+Step 9 : Poisoning the source.
+Step 10 : Go to any website on source ip address.
+Step 11 : Go to password option in the cain & abel and see the visited site password.
